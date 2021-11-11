@@ -1,0 +1,17 @@
+{
+  "name": "socket-p5js-multiplayer-positioning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js localhost 8080"
+  },
+  "dependencies": {
+    "express": "~4.16.1",
+    "socket.io": "4.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "1.18.4"
+  },
+  "keywords": []
+}
